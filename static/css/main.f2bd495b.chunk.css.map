@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,UACE,WAAY,CACb,UAGC,qBAAsB","file":"main.f2bd495b.chunk.css","sourcesContent":[".listItem {\n  width: 300px;\n}\n\n.selected {\n  background-color: #ffa;\n}\n"]}
